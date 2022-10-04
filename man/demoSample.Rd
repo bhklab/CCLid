@@ -13,9 +13,6 @@ demoSample(data.type = "BAF", sample.ord, demo.dat)
 
 \item{demo.dat}{Demo data}
 }
-\value{
-
-}
 \description{
 Randomize a sample BAF or Geno giving probabilities
 }
